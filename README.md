@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/megarajstu/Leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0682-baseball-game](https://github.com/megarajstu/Leetcode_solutions/tree/master/0682-baseball-game) |
 | [3791-fruits-into-baskets-iii](https://github.com/megarajstu/Leetcode_solutions/tree/master/3791-fruits-into-baskets-iii) |
 ## Stack
@@ -28,4 +29,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3791-fruits-into-baskets-iii](https://github.com/megarajstu/Leetcode_solutions/tree/master/3791-fruits-into-baskets-iii) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/megarajstu/Leetcode_solutions/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
