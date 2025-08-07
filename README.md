@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/megarajstu/Leetcode_solutions/tree/master/0682-baseball-game) |
 | [1019-squares-of-a-sorted-array](https://github.com/megarajstu/Leetcode_solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [2551-apply-operations-to-an-array](https://github.com/megarajstu/Leetcode_solutions/tree/master/2551-apply-operations-to-an-array) |
+| [3648-find-the-maximum-number-of-fruits-collected](https://github.com/megarajstu/Leetcode_solutions/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3791-fruits-into-baskets-iii](https://github.com/megarajstu/Leetcode_solutions/tree/master/3791-fruits-into-baskets-iii) |
 ## Stack
 |  |
@@ -44,4 +45,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1019-squares-of-a-sorted-array](https://github.com/megarajstu/Leetcode_solutions/tree/master/1019-squares-of-a-sorted-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3648-find-the-maximum-number-of-fruits-collected](https://github.com/megarajstu/Leetcode_solutions/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+## Matrix
+|  |
+| ------- |
+| [3648-find-the-maximum-number-of-fruits-collected](https://github.com/megarajstu/Leetcode_solutions/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 <!---LeetCode Topics End-->
