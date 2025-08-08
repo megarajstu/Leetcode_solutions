@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/megarajstu/Leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0826-soup-servings](https://github.com/megarajstu/Leetcode_solutions/tree/master/0826-soup-servings) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/megarajstu/Leetcode_solutions/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Matrix
 |  |
@@ -66,8 +67,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/megarajstu/Leetcode_solutions/tree/master/0268-missing-number) |
+| [0826-soup-servings](https://github.com/megarajstu/Leetcode_solutions/tree/master/0826-soup-servings) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/megarajstu/Leetcode_solutions/tree/master/0268-missing-number) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0826-soup-servings](https://github.com/megarajstu/Leetcode_solutions/tree/master/0826-soup-servings) |
 <!---LeetCode Topics End-->
