@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/megarajstu/Leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/megarajstu/Leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0283-move-zeroes](https://github.com/megarajstu/Leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0682-baseball-game](https://github.com/megarajstu/Leetcode_solutions/tree/master/0682-baseball-game) |
 | [1019-squares-of-a-sorted-array](https://github.com/megarajstu/Leetcode_solutions/tree/master/1019-squares-of-a-sorted-array) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/megarajstu/Leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/megarajstu/Leetcode_solutions/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Matrix
 |  |
