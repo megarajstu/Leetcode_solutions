@@ -66,14 +66,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/megarajstu/Leetcode_solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/megarajstu/Leetcode_solutions/tree/master/0268-missing-number) |
 | [0826-soup-servings](https://github.com/megarajstu/Leetcode_solutions/tree/master/0826-soup-servings) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/megarajstu/Leetcode_solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/megarajstu/Leetcode_solutions/tree/master/0268-missing-number) |
 ## Probability and Statistics
 |  |
 | ------- |
 | [0826-soup-servings](https://github.com/megarajstu/Leetcode_solutions/tree/master/0826-soup-servings) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/megarajstu/Leetcode_solutions/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
