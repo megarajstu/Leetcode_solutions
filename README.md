@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/megarajstu/Leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/megarajstu/Leetcode_solutions/tree/master/0268-missing-number) |
 | [1019-squares-of-a-sorted-array](https://github.com/megarajstu/Leetcode_solutions/tree/master/1019-squares-of-a-sorted-array) |
 ## Dynamic Programming
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/megarajstu/Leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0242-valid-anagram](https://github.com/megarajstu/Leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/megarajstu/Leetcode_solutions/tree/master/0268-missing-number) |
 ## Math
 |  |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/megarajstu/Leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0242-valid-anagram](https://github.com/megarajstu/Leetcode_solutions/tree/master/0242-valid-anagram) |
 ## Sliding Window
 |  |
 | ------- |
