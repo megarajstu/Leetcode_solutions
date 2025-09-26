@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/megarajstu/Leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0268-missing-number](https://github.com/megarajstu/Leetcode_solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/megarajstu/Leetcode_solutions/tree/master/0283-move-zeroes) |
+| [0611-valid-triangle-number](https://github.com/megarajstu/Leetcode_solutions/tree/master/0611-valid-triangle-number) |
 | [0682-baseball-game](https://github.com/megarajstu/Leetcode_solutions/tree/master/0682-baseball-game) |
 | [1019-squares-of-a-sorted-array](https://github.com/megarajstu/Leetcode_solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [2551-apply-operations-to-an-array](https://github.com/megarajstu/Leetcode_solutions/tree/master/2551-apply-operations-to-an-array) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/megarajstu/Leetcode_solutions/tree/master/0268-missing-number) |
+| [0611-valid-triangle-number](https://github.com/megarajstu/Leetcode_solutions/tree/master/0611-valid-triangle-number) |
 | [3791-fruits-into-baskets-iii](https://github.com/megarajstu/Leetcode_solutions/tree/master/3791-fruits-into-baskets-iii) |
 ## Segment Tree
 |  |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/megarajstu/Leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/megarajstu/Leetcode_solutions/tree/master/0283-move-zeroes) |
+| [0611-valid-triangle-number](https://github.com/megarajstu/Leetcode_solutions/tree/master/0611-valid-triangle-number) |
 | [1019-squares-of-a-sorted-array](https://github.com/megarajstu/Leetcode_solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [2551-apply-operations-to-an-array](https://github.com/megarajstu/Leetcode_solutions/tree/master/2551-apply-operations-to-an-array) |
 ## Sorting
@@ -49,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/megarajstu/Leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/megarajstu/Leetcode_solutions/tree/master/0268-missing-number) |
+| [0611-valid-triangle-number](https://github.com/megarajstu/Leetcode_solutions/tree/master/0611-valid-triangle-number) |
 | [1019-squares-of-a-sorted-array](https://github.com/megarajstu/Leetcode_solutions/tree/master/1019-squares-of-a-sorted-array) |
 ## Dynamic Programming
 |  |
@@ -94,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/megarajstu/Leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+## Greedy
+|  |
+| ------- |
+| [0611-valid-triangle-number](https://github.com/megarajstu/Leetcode_solutions/tree/master/0611-valid-triangle-number) |
 <!---LeetCode Topics End-->
