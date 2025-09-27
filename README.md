@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/megarajstu/Leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0611-valid-triangle-number](https://github.com/megarajstu/Leetcode_solutions/tree/master/0611-valid-triangle-number) |
 | [0682-baseball-game](https://github.com/megarajstu/Leetcode_solutions/tree/master/0682-baseball-game) |
+| [0830-largest-triangle-area](https://github.com/megarajstu/Leetcode_solutions/tree/master/0830-largest-triangle-area) |
 | [1019-squares-of-a-sorted-array](https://github.com/megarajstu/Leetcode_solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [2551-apply-operations-to-an-array](https://github.com/megarajstu/Leetcode_solutions/tree/master/2551-apply-operations-to-an-array) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/megarajstu/Leetcode_solutions/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/megarajstu/Leetcode_solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/megarajstu/Leetcode_solutions/tree/master/0268-missing-number) |
 | [0826-soup-servings](https://github.com/megarajstu/Leetcode_solutions/tree/master/0826-soup-servings) |
+| [0830-largest-triangle-area](https://github.com/megarajstu/Leetcode_solutions/tree/master/0830-largest-triangle-area) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -102,4 +104,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0611-valid-triangle-number](https://github.com/megarajstu/Leetcode_solutions/tree/master/0611-valid-triangle-number) |
+## Geometry
+|  |
+| ------- |
+| [0830-largest-triangle-area](https://github.com/megarajstu/Leetcode_solutions/tree/master/0830-largest-triangle-area) |
 <!---LeetCode Topics End-->
